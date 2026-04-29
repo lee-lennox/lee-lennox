@@ -1,78 +1,150 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:66BB6A&height=200&section=header&text=Lennox%20Komane&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Lennox%20Komane&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Lennox Komane</h1>
+
+<h3 align="center">
+Junior Java Developer • Full-Stack Developer • Data Analyst Associate
+</h3>
+
+<p align="center">
+📍 Cape Town, South Africa &nbsp; | &nbsp;
+🎓 ICT Graduate &nbsp; | &nbsp;
+🚀 Open to Opportunities
 </p>
 
 ---
 
-# Hi 👋, I'm Lennox Komane  
+## 💼 Professional Summary  
 
-💻 **Junior Software Developer (Backend & Web Applications)**  
-📊 **Data Analyst Associate**  
-🐧 Focused on **Java, Databases, Web Technologies & Linux (Red Hat)**  
-🌍 Based in **Cape Town, South Africa**
+Results-driven **Junior Software Developer** with practical experience building **Java backend systems, REST APIs, SQL databases, and responsive web applications**.  
 
----
+Currently gaining real-world experience as a **Data Analyst Associate**, working with SQL reporting, dashboards, business data validation, and Agile delivery teams.  
 
-## 🚀 About Me  
-
-I am an early-career software developer with hands-on experience in backend development, RESTful APIs, and relational databases. I work primarily with **Java, SQL, Spring Boot, and web technologies**, and I have additional exposure to **Linux environments** and **IoT fundamentals**.
-
-I enjoy solving real-world problems through clean, scalable solutions and collaborating in team-driven environments. I am continuously developing my technical and analytical skills while contributing to reliable and maintainable software systems.
+Strong foundation in **Spring Boot, MySQL, React, Git, and software architecture**, with a passion for building scalable systems and solving real business problems.
 
 ---
 
 ## 🎓 Education  
 
-🎓 **Diploma in ICT – Application Development**  
-📍 Cape Peninsula University of Technology (CPUT)
+🎓 **Diploma in ICT: Application Development**  
+📍 Cape Peninsula University of Technology (CPUT)  
+📅 Graduated: 2026
 
 ---
 
-## 🛠 Skills & Technologies  
+## 🛠 Core Skills  
 
-### 💻 Programming & Development  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+### 💻 Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Linux Red Hat](https://img.shields.io/badge/Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-
-### 🌍 Areas of Interest  
-![IoT](https://img.shields.io/badge/IoT-008080?style=for-the-badge&logo=arduino&logoColor=white)  
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Robotics](https://img.shields.io/badge/Robotics-FF4500?style=for-the-badge&logo=robotframework&logoColor=white)
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity  
+## 🚀 Featured Projects  
+
+### 🏋️ FitGear Gym Store  
+**Full-Stack E-Commerce Application**  
+
+✔ Built Java Spring Boot backend with REST APIs  
+✔ React + TypeScript frontend  
+✔ MySQL relational database  
+✔ Dockerized deployment  
+
+---
+
+### 📚 Tutor Finder System  
+**Mobile + Backend Platform**  
+
+✔ Connects students with tutors  
+✔ Booking system & profile management  
+✔ JWT Authentication  
+✔ Real-time messaging  
+
+---
+
+### 📦 Package Tracker System  
+**Logistics Backend System**  
+
+✔ Secure parcel tracking APIs  
+✔ Role-based access control (RBAC)  
+✔ Spring Boot + JWT Security  
+✔ Clean layered architecture  
+
+---
+
+## 💼 Current Experience  
+
+### 📊 Data Analyst Associate | CAPACITI  
+
+✔ SQL reporting & optimization  
+✔ Power BI dashboards  
+✔ Data validation & business rules  
+✔ Agile / Scrum delivery environment  
+
+---
+
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lee-lennox&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lee-lennox&theme=radical&hide_border=true" height="180em"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=lee-lennox&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lee-lennox&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-lennox&layout=compact&theme=radical&hide_border=true" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-lennox&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌍 Open To Roles  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennoxkomane)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lennoxkomane@gmail.com)
+✅ Junior Java Developer  
+✅ Backend Developer  
+✅ Full-Stack Developer  
+✅ Graduate Software Engineer  
+✅ Data Analyst / BI Roles  
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lennox%20Komane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennoxkomane)
+
+[![Email](https://img.shields.io/badge/Email-lennoxkomane@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lennoxkomane@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge)](https://lennox-komane-portfolio.netlify.app/)
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:66BB6A&height=100&section=footer"/>
+  <i>"Building scalable software solutions with clean code and strong business impact."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer"/>
 </p>
