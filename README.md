@@ -1,1 +1,132 @@
-<!-- Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:66BB6A&height=200&section=header&text=Lennox%20Komane&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/> </p> --- # Hi 👋, I'm Lennox Komane 💻 **Junior Software Developer (Backend & Web Applications)** 📊 **Data Analyst Associate** 🐧 Focused on **Java, Databases, Web Technologies & Linux (Red Hat)** 🌍 Based in **Cape Town, South Africa** --- ## 🚀 About Me I am an early-career software developer with hands-on experience in backend development, RESTful APIs, and relational databases. I work primarily with **Java, SQL, Spring Boot, and web technologies**, and I have additional exposure to **Linux environments** and **IoT fundamentals**. I enjoy solving real-world problems through clean, scalable solutions and collaborating in team-driven environments. I am continuously developing my technical and analytical skills while contributing to reliable and maintainable software systems. --- ## 🎓 Education 🎓 **Diploma in ICT – Application Development** 📍 Cape Peninsula University of Technology (CPUT) --- ## 🛠 Skills & Technologies ### 💻 Programming & Development ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ### ⚙️ Tools & Platforms ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Linux Red Hat](https://img.shields.io/badge/Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ### 🌍 Areas of Interest ![IoT](https://img.shields.io/badge/IoT-008080?style=for-the-badge&logo=arduino&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-FF4500?style=for-the-badge&logo=robotframework&logoColor=white) --- ## 📊 GitHub Activity <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lee-lennox&show_icons=true&theme=radical&hide_border=true" height="180em"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lee-lennox&theme=radical&hide_border=true" height="180em"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-lennox&layout=compact&theme=radical&hide_border=true" height="150em"/> </p> --- ## 🌐 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lennoxkomane) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lennoxkomane@gmail.com) --- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:66BB6A&height=100&section=footer"/> </p>.
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1E3A8A,100:2563EB&height=230&section=header&text=Lennox%20Komane&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">💻 Builder of Systems • Solver of Problems • Future Tech Leader</h1>
+
+<p align="center">
+Cape Town, South Africa 🇿🇦 <br>
+Java • Spring Boot • SQL • React • Analytics
+</p>
+
+---
+
+## 👨‍💻 Who Am I?
+
+I'm **Lennox Komane**, a developer who enjoys turning ideas into real working systems.
+
+I combine **software development**, **data thinking**, and **problem solving** to create projects that are useful, scalable, and cleanly built.
+
+While many people learn theory — I enjoy **building**.
+
+From backend APIs, databases, dashboards, mobile systems, and business platforms... I like creating technology that solves real-world challenges.
+
+---
+
+## ⚡ What I Bring
+
+🚀 Strong Java backend development skills  
+🛠 REST API design with Spring Boot  
+🗄 Database architecture & SQL optimization  
+📊 Analytics dashboards & reporting mindset  
+🌐 Frontend experience with React & web UI  
+🤝 Team collaboration in Agile environments  
+📈 Growth mindset + continuous learning  
+
+---
+
+## 🧠 My Tech Stack
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</p>
+
+---
+
+## 🚀 Things I've Built
+
+### 🏋️ FitGear Gym Store
+A full-stack eCommerce system with backend APIs, database design, React frontend, and deployment.
+
+### 📚 Tutor Finder Platform
+A system connecting students and tutors through bookings, profiles, authentication, and messaging.
+
+### 📦 Package Tracker
+Secure logistics backend for parcel updates, tracking flows, and user permissions.
+
+### 📊 Data Reporting Solutions
+Built SQL reports, dashboards, and cleaner data processes in a real work environment.
+
+---
+
+## 🎯 What Makes Me Different?
+
+I don’t just code features.
+
+I think about:
+
+✔ Performance  
+✔ Scalability  
+✔ User experience  
+✔ Business value  
+✔ Clean architecture  
+✔ Maintainability  
+
+That means I build systems that matter.
+
+---
+
+## 🌍 Currently Focused On
+
+🔹 Becoming a top-tier Backend Engineer  
+🔹 Advanced Java + Spring mastery  
+🔹 Cloud deployment & DevOps  
+🔹 Enterprise systems  
+🔹 Real-world product building  
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lee-lennox&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lee-lennox&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lennox%20Komane-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lennoxkomane)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:lennoxkomane@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://lennox-komane-portfolio.netlify.app/)
+
+</p>
+
+---
+
+<p align="center">
+💡 <i>I’m not looking for just a job — I’m looking to build meaningful technology.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1E3A8A,100:2563EB&height=110&section=footer"/>
+</p>
