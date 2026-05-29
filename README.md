@@ -1,13 +1,14 @@
+# Banner
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=Lennox%20Komane&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">💻 Software Developer • Problem Solver • Builder</h1>
+<h1 align="center">💻 Junior Java Developer • Full-Stack Engineer • Problem Solver</h1>
 
 <p align="center">
 🇿🇦 Cape Town, South Africa <br>
-Java • Spring Boot • SQL • React • Analytics • Innovation
+Java • Spring Boot • React • SQL • Docker • Power BI
 </p>
 
 <p align="center">
@@ -21,30 +22,30 @@ Java • Spring Boot • SQL • React • Analytics • Innovation
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Lennox Komane** — a passionate **Junior Software Developer** focused on building practical systems that solve real-world problems.
+Hi, I'm **Lennox Komane** — a Junior Java Developer and Full-Stack Engineer based in Cape Town, South Africa.
 
-I enjoy working across both **backend and frontend development**, designing clean architectures, creating scalable APIs, managing databases, and delivering responsive user experiences.
+I've independently delivered **3 full-stack projects** spanning e-commerce, logistics and mobile platforms — architecting **30+ RESTful API endpoints**, designing normalized database schemas, implementing JWT authentication and containerizing applications with Docker.
 
-Currently gaining real-world business experience as a **Data Analyst Associate**, where I work with reporting systems, dashboards, SQL data flows, and Agile teams.
+Currently working as a **Data Analyst Trainee at CAPACITI**, where I improved decision-making accuracy by **30%**, reduced SQL query retrieval time by **25%** and cut report generation time by **30 minutes per cycle** across 4 Agile sprint cycles.
 
-I don’t just like coding — I like **building solutions that matter**.
+I'm currently **open to Junior Java Developer and Graduate Engineer roles** in Cape Town. Available immediately.
 
 ---
 
 ## 🚀 What I Bring
 
-✅ Strong Java backend development  
-✅ REST API architecture with Spring Boot  
-✅ SQL database design & optimization  
-✅ Full-stack web development  
-✅ Problem-solving mindset  
-✅ Agile teamwork & collaboration  
-✅ Clean code & scalable thinking  
-✅ Continuous learner mindset  
+✅ Strong Java backend development with Spring Boot  
+✅ REST API architecture — 30+ endpoints delivered across 3 projects  
+✅ SQL database design, optimization and query writing  
+✅ Full-stack development with React and TypeScript  
+✅ JWT authentication and Role-Based Access Control (RBAC)  
+✅ Docker containerization and cloud deployment  
+✅ Agile/Scrum teamwork across real sprint cycles  
+✅ Clean, testable code with JUnit unit testing  
 
 ---
 
-# 🧠 Tech Universe
+## 🧠 Tech Universe
 
 <table align="center">
 
@@ -76,7 +77,7 @@ Databases
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>
 <b>PostgreSQL</b><br>
-Advanced SQL
+Cloud Deployment
 </td>
 </tr>
 
@@ -126,25 +127,11 @@ Web Backend
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cs" width="55"/><br>
-<b>C#</b><br>
-OOP Skills
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+<b>Docker</b><br>
+Containers
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
-<b>Node.js</b><br>
-JS Runtime
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
-<b>SQLite</b><br>
-Light DB
-</td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
 <b>Git</b><br>
@@ -156,13 +143,9 @@ Version Control
 <b>GitHub</b><br>
 Collaboration
 </td>
+</tr>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
-<b>Docker</b><br>
-Containers
-</td>
-
+<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
 <b>Postman</b><br>
@@ -174,9 +157,7 @@ API Testing
 <b>Maven</b><br>
 Build Tool
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
 <b>VS Code</b><br>
@@ -190,21 +171,9 @@ IDE
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
-<b>Linux</b><br>
-CLI / Servers
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
 <b>Figma</b><br>
 Design
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=arduino" width="55"/><br>
-<b>Arduino</b><br>
-IoT
 </td>
 </tr>
 
@@ -212,46 +181,46 @@ IoT
 
 ---
 
-## ⚡ Also Experienced With
-
-🔹 REST APIs  
-🔹 JWT Authentication  
-🔹 RBAC Security  
-🔹 JPA / Hibernate  
-🔹 Agile / Scrum  
-🔹 SDLC  
-🔹 OOP Principles  
-🔹 Database Design  
-🔹 Power BI  
-🔹 Excel Reporting  
-🔹 Responsive Design  
-🔹 JUnit Testing  
-
----
-
 ## 🚀 Featured Projects
 
-### 🏋️ FitGear Gym Store
-Full-stack eCommerce platform built with Java Spring Boot, React, MySQL, Docker, and deployed online.
+### 🏋️ FitGear Gym Store — Full-Stack E-Commerce Application
+> Java • Spring Boot • React • TypeScript • MySQL • PostgreSQL • Docker • Render
 
-### 📚 Tutor Finder Platform
-Student-tutor matching system with bookings, profiles, authentication, and messaging.
-
-### 📦 Package Tracker System
-Secure logistics backend with parcel tracking, user roles, and REST APIs.
-
-### 📊 Data Reporting Solutions
-Built SQL reports, Power BI dashboards, and automated reporting workflows.
+- 12 RESTful API endpoints covering full CRUD for products, cart and orders
+- Normalized MySQL schema locally with PostgreSQL on cloud deployment via Render
+- Responsive React + TypeScript frontend verified across desktop and mobile
+- 15 JUnit unit tests targeting service-layer business logic
+- Containerized with Docker for reproducible builds and single-config deployment
 
 ---
 
-## 🎯 Current Mission
+### 📚 Tutor Finder — Mobile Application
+> React Native • Java • Spring Boot • MySQL
 
-🔹 Become a world-class Backend Engineer  
-🔹 Master enterprise Java systems  
-🔹 Build products that impact people  
-🔹 Grow into tech leadership  
-🔹 Keep learning daily  
+- 8 RESTful endpoints for authentication, profile management and appointment booking
+- JWT authentication securing all protected routes across 6 endpoints
+- Real-time WebSocket messaging between students and tutors
+- 5-table MySQL schema with referential integrity enforced via foreign keys
+
+---
+
+### 📦 Package Tracker System — Backend Application
+> Java • Spring Boot • JWT • REST APIs • MySQL
+
+- 10 REST API endpoints for parcel status, shipment updates and delivery confirmation
+- 3-tier RBAC system (admin, dispatcher, customer) enforced via JWT
+- Clean layered architecture across controller, service and repository layers
+- Full Spring Boot bean validation on all incoming API payloads
+
+---
+
+### 📊 Data Analytics & Reporting — CAPACITI
+> SQL • Power BI • Excel • Agile
+
+- Reduced SQL query retrieval time by 25% across 4+ reporting datasets
+- Built 3 Power BI dashboards and 5 Excel reports surfacing key operational metrics
+- Validated data from 3 upstream sources against 8 defined business rules
+- Delivered across 4 Agile sprint cycles with stand-ups and retrospectives
 
 ---
 
@@ -284,12 +253,16 @@ Built SQL reports, Power BI dashboards, and automated reporting workflows.
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
 
+<a href="https://lennox-komane-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-💡 <i>I’m not searching for just a job — I’m building a career through impact.</i>
+💡 <i>I don't just write code — I build solutions that matter.</i>
 </p>
 
 <p align="center">
